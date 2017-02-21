@@ -1,4 +1,4 @@
-# Text Recognition Using A kNN Classifier and Fourier Transform as a Metric
+# Text Recognition Using A kNN Classifier and Fourier Transform
 
 This project was undertaken as a senior undergraduate honors thesis at East Tennessee State Univserity between August 2016 and May 2017. My thesis advisor was Dr. Jeff Knisley.
 
